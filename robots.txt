@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-teqygo.stampchain.io/sitemap.xml
